@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map type="toc">
+<page navtitle="Bk1" href="../contents/FM_Import/Bk1/Bk1.htm" format="html" processing-role="normal"></page>
+<book navtitle="The predefined formats" href="../contents/FM_Import/Bk1/The_predefined_formats.htm" format="html" processing-role="normal">
+  <page navtitle="Paragraph formats" href="../contents/FM_Import/Bk1/Paragraph_formats.htm" format="html" processing-role="normal"></page>
+  <page navtitle="http:  www.adobe.comcharacter formats " href="../contents/FM_Import/Bk1/http__58___47___47_www.adobe.comCharacter_formats.htm" format="html" processing-role="normal"></page>
+</book>
+<page navtitle="Graphics" href="../contents/FM_Import/Bk1/Graphics.htm" format="html" processing-role="normal"></page>
+<page navtitle="Tables" href="../contents/FM_Import/Bk1/Tables.htm" format="html" processing-role="normal"></page>
+<page navtitle="Cross-references" href="../contents/FM_Import/Bk1/Cross-references.htm" format="html" processing-role="normal"></page>
+<page navtitle="Sidebars" href="../contents/FM_Import/Bk1/Sidebars.htm" format="html" processing-role="normal"></page>
+<page navtitle="Creating books" href="../contents/FM_Import/Bk1/Creating_books.htm" format="html" processing-role="normal"></page>
+</map>

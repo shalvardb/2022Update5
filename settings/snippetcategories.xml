@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+  <category name="default">
+    <snippet>../contents/assets/snippets/Accessories/caps, hats.hts</snippet>
+    <snippet>../contents/assets/snippets/Accessories/Deutsche(German).hts</snippet>
+    <snippet>../contents/assets/snippets/Women_footwears/日本語(Japanese).hts</snippet>
+    <snippet>../contents/assets/snippets/franais(French).hts</snippet>
+    <snippet>../contents/assets/snippets/Mango brand.hts</snippet>
+    <snippet>../contents/assets/snippets/New Snippet1.hts</snippet>
+    <snippet>../contents/assets/snippets/New Snippet2.hts</snippet>
+    <snippet>../contents/assets/snippets/UCB.hts</snippet>
+  </category>
+  <category name="new_category">
+    <snippet>../contents/assets/snippets/sanity_11.hts</snippet>
+    <snippet>../contents/assets/snippets/Women_footwears/New Snippet.hts</snippet>
+  </category>
+</categories>

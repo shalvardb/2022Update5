@@ -1,0 +1,92 @@
+p.Author {
+    margin-bottom: 0;
+    font-size: 15pt;
+    color: #2A2A2A;
+    font-weight: bold;
+}
+span.Emphasis {
+    color: #EB130B;
+}
+table.Generaltable {
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+p.ListBullet {
+    margin-bottom: 8pt;
+    font-style: italic;
+    counter-reset: Numbering172;
+    margin-left: 0.25in;
+    --autonumber: autonumber;
+    text-indent: 0;
+}
+p.ListBullet:before {
+    content: "•";
+    font-family: Symbol;
+    font-size: 10pt;
+    color: #F75952;
+    display: inline-flex;
+    width: 0.25in;
+    margin-left: 0;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    text-align: right;
+}
+p.Quote {
+    margin-top: 16pt;
+    line-height: 1.10;
+    margin-bottom: 16pt;
+    font-size: 27pt;
+    color: #EB130B;
+    font-weight: bold;
+}
+p.Subtitle {
+    margin-bottom: 8pt;
+    font-size: 25pt;
+    color: #F75952;
+    font-weight: bold;
+}
+p.TOC1 {
+    margin-top: 30pt;
+    margin-bottom: 12pt;
+    font-size: 14pt;
+    color: #2A2A2A;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p.TOC2 {
+    margin-top: 6pt;
+    margin-bottom: 0;
+}
+p.TOCHeading {
+    margin-bottom: 66pt;
+    font-size: 45pt;
+    color: #2A2A2A;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+p.Title {
+    margin-bottom: 14pt;
+    font-size: 50pt;
+    color: #2A2A2A;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+body {
+    line-height: 1.30;
+    margin-bottom: 10pt;
+    font-size: 12pt;
+    color: #5F5F5F;
+    font-family: 'Verdana', 'sans-serif';
+}
+.position-relative {
+position:relative;
+}
+span { white-space: pre-wrap;
+}
+table.Generaltable td {
+    padding-left: 0pt;
+    padding-right: 25.2pt;
+}
